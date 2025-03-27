@@ -35,10 +35,12 @@ The goal of this project was to recreate the standard `printf()` function from `
 - **%X**: Print a number in uppercase hexadecimal format.
 - **%%**: Print a percent sign.
 
-### **Key Concepts:**
-- **Variadic Functions:** Handling a variable number of arguments.
+### **🚀 Key Concepts & Skills Developed:**
+- **Variadic Functions:** Implementing functions that handle a variable number of arguments.
 - **String Formatting:** Converting various data types to string representation.
 - **Memory Management:** Ensuring proper allocation and freeing of memory.
+- **Data Type Handling:** Working with different data types and their representations.
+- **Code Organization:** Structuring code for extensibility and maintainability.
 
 ---
 
@@ -119,11 +121,3 @@ This implementation does not support:
 - Format flags (width, precision, etc.)
 - Length modifiers
 - Other conversion specifiers not mentioned in requirements
-
----
-
-## **🚀 Skills Developed**
-- Implementing variadic functions in C
-- Working with different data types and their representations
-- String formatting and manipulation
-- Code organization for extensibility
