@@ -35,7 +35,7 @@ The goal of this project was to recreate the standard `printf()` function from `
 - **%X**: Print a number in uppercase hexadecimal format.
 - **%%**: Print a percent sign.
 
-### **🚀 Key Concepts & Skills Developed:**
+### **Key Concepts & Skills Developed:**
 - **Variadic Functions:** Implementing functions that handle a variable number of arguments.
 - **String Formatting:** Converting various data types to string representation.
 - **Memory Management:** Ensuring proper allocation and freeing of memory.
