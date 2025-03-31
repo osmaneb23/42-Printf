@@ -23,6 +23,15 @@ The goal of this project was to recreate the standard `printf()` function from `
   - `clean` (remove object files)
   - `fclean` (remove object files & archive)
   - `re` (recompile everything)
+- **Allowed functions:**
+  - `malloc`
+  - `free`
+  - `write`
+  - `va_start`
+  - `va_arg`
+  - `va_copy`
+  - `va_end`
+- My own Libft was also allowed.
 
 ### **Required Conversions:**
 - **%c**: Print a single character.
